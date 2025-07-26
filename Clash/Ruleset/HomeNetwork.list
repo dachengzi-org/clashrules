@@ -1,5 +1,5 @@
-DOMAIN,nas.dachengzi.org,HomeNetwork
-DOMAIN,qb.dachengzi.org,HomeNetwork
-DOMAIN,media.dachengzi.org,HomeNetwork
-DOMAIN,vps.dachengzi.org,HomeNetwork
-DOMAIN,pve.dachengzi.org,HomeNetwork
+DOMAIN,nas.dachengzi.org
+DOMAIN,qb.dachengzi.org
+DOMAIN,media.dachengzi.org
+DOMAIN,vps.dachengzi.org
+DOMAIN,pve.dachengzi.org
