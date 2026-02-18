@@ -1,5 +1,8 @@
-DOMAIN,nas.dachengzi.org
-DOMAIN,qb.dachengzi.org
+IP-CIDR,192.168.0.0/24,no-resolve
+DOMAIN,dachengzi.org
+DOMAIN,admin.dachengzi.org
 DOMAIN,media.dachengzi.org
-DOMAIN,vps.dachengzi.org
+DOMAIN,nas.dachengzi.org
 DOMAIN,pve.dachengzi.org
+DOMAIN,qb.dachengzi.org
+DOMAIN,vps.dachengzi.org
