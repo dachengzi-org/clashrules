@@ -47,6 +47,7 @@ dns:
     - localhost.ptlogin2.qq.com
     - "*.msftncsi.com"
     - www.msftconnecttest.com
+    - www.gstatic.com
   default-nameserver:
     - 119.29.29.29
     - 223.5.5.5
