@@ -59,7 +59,7 @@ dns:
       - 119.29.29.29
       - 223.5.5.5
     geosite:geolocation-!cn:
-      - https://dns.alidns.com/dns-query # 【修复微软/苹果等直连打不开的关键】
+      - https://dns.alidns.com/dns-query
       - https://doh.pub/dns-query
   proxy-server-nameserver:
     - 119.29.29.29
